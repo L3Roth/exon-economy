@@ -5,6 +5,7 @@
     "paths" : {
       "crypto": ["./node_modules/crypto-browserify"],
       "stream": ["./node_modules/stream-browserify"],
+      "path": ["./node_modules/path-browserify"],
       "assert": ["./node_modules/assert"],
       "http": ["./node_modules/stream-http"],
       "https": ["./node_modules/https-browserify"],
